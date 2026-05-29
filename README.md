@@ -16,10 +16,6 @@ This repository contains my networking practice labs using Cisco Packet Tracer.
 
 * Cisco Packet Tracer
 
-##  Network Topology
-
-*![Topology](topology.png)
-
 ## Goal
 
 Improving my networking and IT infrastructure skills through hands-on labs.
